@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Sistemas de Informação que está em busca da primeira oportunidade de estágio
+Sou estudante de Sistemas de Informação, com interesse na área do Front-End, que está em busca da primeira oportunidade de estágio
 
 
 ## 🌐 Socials:
