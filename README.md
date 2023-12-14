@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel and I'm a Front-End Developer, from Brazil</p>
+<p align="left">My name is Gabriel and I'm a Front End Developer, from Brazil 🇧🇷</p>
 
 <br clear="both">
 
@@ -71,7 +71,7 @@
 
 ###
 
-<h2 align="left">🔥   Social </h2>
+<h2 align="left">🌐   Social </h2>
 
 ###
 
@@ -106,9 +106,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
 </div>
-
-
-<br clear="both">
 
 ###
 
