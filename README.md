@@ -8,11 +8,11 @@
 
 ###
 
-<h2 align="left">👩‍💻 About me</h2>
+<h2 align="left">👨‍💻 About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since the first 'Hello World' in C<br>📚 I'm currently learning <b>ReactJs and TypeScript</b><br>🎯 Goals: Evolve more and more as a developer<br>🎲 Fun fact: Most of the time the errors are between the keyboard and the chair</p>
+<p align="left">✨ Creating bugs since the first 'Hello World' in C<br>📚 I'm currently learning <b>ReactJs and TypeScript</b><br>🎯 Goal: Evolve more and more as a developer<br>🎲 Fun fact: Most of the time the errors are between the keyboard and the chair</p>
 
 <br clear="both">
 
