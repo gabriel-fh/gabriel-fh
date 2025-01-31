@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since the first 'Hello World' in C<br>📚 I'm currently learning <b>NextJs</b><br>🎯 Goal: Evolve more and more as a developer<br>🎲 Fun fact: Most of the time the errors are between the keyboard and the chair</p>
+<p align="left">✨ Creating bugs since the first 'Hello World' in C<br>📚 I'm currently learning <b>Next.js</b><br>🎯 Goal: Evolve more and more as a developer<br>🎲 Fun fact: Most of the time the errors are between the keyboard and the chair</p>
 
 <br clear="both">
 
