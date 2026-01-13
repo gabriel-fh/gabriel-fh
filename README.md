@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel and I'm a Front End Developer, from Brazil 🇧🇷</p>
+<p align="left">My name is Gabriel and I'm a Software Developer, from Brazil 🇧🇷</p>
 
 <br clear="both">
 
