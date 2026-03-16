@@ -12,7 +12,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since the first 'Hello World' in C<br>📚 I'm currently learning <b>Next.js</b><br>🎯 Goal: Evolve more and more as a developer<br>🎲 Fun fact: Most of the time the errors are between the keyboard and the chair</p>
+<p align="left">✨ Creating bugs since the first 'Hello World' in C<br>📚 I'm currently learning <b>Nest.js</b><br>🎯 Goal: Evolve more and more as a developer<br>🎲 Fun fact: Most of the time the errors are between the keyboard and the chair<br> 💻 Portfolio: <a href="https://gabriel-hermenegildo.vercel.app" target="_blank">gabriel-hermenegildo.vercel.app</a>
+</p>
 
 <br clear="both">
 
@@ -33,7 +34,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width='40' alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width='40' alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" width='40' alt="python logo"  />
   <img width="12" />
 </div>
 
@@ -78,17 +79,14 @@
   <a href="https://www.instagram.com/gabriel.fh_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <a href="gabriel.f.hermenegildo@gmail.com" target="_blank">
+  <a href="mailto:gabriel.hermenegildo.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://codepen.io/gabriel-fh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen logo"  />
+  <a href="https://discord.com/users/@gbrfh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
-  <a href="https://codesandbox.io/u/gabriel_fh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="30" alt="codesandbox logo"  />
-  </a>
-  <a href="https://discordlookup.com/user/273661975987355648" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  <a href="https://gabriel-hermenegildo.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="website logo"  />
   </a>
 </div>
 
