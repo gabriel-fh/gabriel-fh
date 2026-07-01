@@ -43,20 +43,6 @@
 
 <br clear="both">
 
-## 🧩 The dev behind the commits
-
-```ts
-const gabriel = {
-  role: "Front-End & Mobile Developer",
-  currentFocus: ["React Native", "clean architecture", "Nest.js"],
-  philosophy: "the right tool > the trendy tool",
-  debuggingMethod: "console.log() and unshakable optimism",
-  offlineMode: ["music on repeat", "coffee", "side quests"],
-};
-```
-
-<br clear="both">
-
 ## ☕ Fuel & vibes
 
 <p align="left">
