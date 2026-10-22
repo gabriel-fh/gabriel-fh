@@ -10,9 +10,9 @@
 ## 👨‍💻 About me
 
 <p align="left">
-🎓 Bachelor's in Information Systems — <i>officially done</i><br>
+🎓 Bachelor's in Information Systems - <i>officially done</i><br>
 🧠 I care more about the <i>why</i> behind a decision than the tool itself<br>
-🏗️ I care about what happens after the happy path — resilience, edge cases, and the errors nobody wants to handle<br>
+🏗️ I care about what happens after the happy path - resilience, edge cases, and the errors nobody wants to handle<br>
 📚 Currently leveling up my backend with <b>Nest.js</b><br>
 💻 Portfolio: <a href="https://gabriel-hermenegildo.vercel.app" target="_blank">gabriel-hermenegildo.vercel.app</a>
 </p>
